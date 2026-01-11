@@ -1,3 +1,3 @@
 # LGSI2006-
-Repository for DataAnalyst seminar
 #Example of README.md#
+Create a repository and edit a title

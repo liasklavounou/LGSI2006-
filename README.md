@@ -1,3 +1,5 @@
 # LGSI2006-
 #Example of README.md#
-Create a repository and edit a title
+*Create a repository*
+*Edit a title*
+
